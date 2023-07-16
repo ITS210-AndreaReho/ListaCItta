@@ -1,0 +1,251 @@
+ [
+    {
+      "Nome citta": "Roma",
+      "Popolazione": 2872800,
+      "Numero grattacieli": 13,
+      "Nazione": "Italia",
+      "Temperatura media annua": 20.3,
+      "Umidita media": 65
+    },
+    {
+      "Nome citta": "Tokyo",
+      "Popolazione": 13929286,
+      "Numero grattacieli": 45,
+      "Nazione": "Giappone",
+      "Temperatura media annua": 16.2,
+      "Umidita media": 70
+    },
+    {
+      "Nome citta": "New York",
+      "Popolazione": 8336817,
+      "Numero grattacieli": 68,
+      "Nazione": "Stati Uniti",
+      "Temperatura media annua": 12.5,
+      "Umidita media": 55
+    },
+    {
+      "Nome citta": "Pechino",
+      "Popolazione": 21540000,
+      "Numero grattacieli": 31,
+      "Nazione": "Cina",
+      "Temperatura media annua": 14.5,
+      "Umidita media": 50
+    },
+    {
+      "Nome citta": "Parigi",
+      "Popolazione": 2140526,
+      "Numero grattacieli": 20,
+      "Nazione": "Francia",
+      "Temperatura media annua": 12.7,
+      "Umidita media": 75
+    },
+    {
+      "Nome citta": "Londra",
+      "Popolazione": 8908081,
+      "Numero grattacieli": 25,
+      "Nazione": "Regno Unito",
+      "Temperatura media annua": 10.4,
+      "Umidita media": 80
+    },
+    {
+      "Nome citta": "Berlino",
+      "Popolazione": 3669495,
+      "Numero grattacieli": 15,
+      "Nazione": "Germania",
+      "Temperatura media annua": 11.8,
+      "Umidita media": 70
+    },
+    {
+      "Nome citta": "Madrid",
+      "Popolazione": 3223334,
+      "Numero grattacieli": 10,
+      "Nazione": "Spagna",
+      "Temperatura media annua": 15.6,
+      "Umidita media": 55
+    },
+    {
+      "Nome citta": "Toronto",
+      "Popolazione": 2930000,
+      "Numero grattacieli": 38,
+      "Nazione": "Canada",
+      "Temperatura media annua": 9.8,
+      "Umidita media": 68
+    },
+    {
+      "Nome citta": "Seoul",
+      "Popolazione": 9796000,
+      "Numero grattacieli": 31,
+      "Nazione": "Corea del Sud",
+      "Temperatura media annua": 13.9,
+      "Umidita media": 70
+    },
+    {
+      "Nome citta": "Rio de Janeiro",
+      "Popolazione": 6747815,
+      "Numero grattacieli": 8,
+      "Nazione": "Brasile",
+      "Temperatura media annua": 24.8,
+      "Umidita media": 78
+    },
+    {
+      "Nome citta": "Mosca",
+      "Popolazione": 12506468,
+      "Numero grattacieli": 24,
+      "Nazione": "Russia",
+      "Temperatura media annua": 5.2,
+      "Umidita media": 75
+    },
+    {
+      "Nome citta": "Atene",
+      "Popolazione": 664046,
+      "Numero grattacieli": 4,
+      "Nazione": "Grecia",
+      "Temperatura media annua": 18.3,
+      "Umidita media": 55
+    },
+    {
+      "Nome citta": "Sydney",
+      "Popolazione": 5312000,
+      "Numero grattacieli": 14,
+      "Nazione": "Australia",
+      "Temperatura media annua": 18.9,
+      "Umidita media": 65
+    },
+    {
+      "Nome citta": "Città del Messico",
+      "Popolazione": 8851080,
+      "Numero grattacieli": 12,
+      "Nazione": "Messico",
+      "Temperatura media annua": 19.4,
+      "Umidita media": 50
+    },
+    {
+      "Nome citta": "Ginevra",
+      "Popolazione": 200548,
+      "Numero grattacieli": 1,
+      "Nazione": "Svizzera",
+      "Temperatura media annua": 8.9,
+      "Umidita media": 60
+    },
+    {
+      "Nome citta": "San Paolo",
+      "Popolazione": 12252023,
+      "Numero grattacieli": 6,
+      "Nazione": "Brasile",
+      "Temperatura media annua": 21.5,
+      "Umidita media": 70
+    },
+    {
+      "Nome citta": "Il Cairo",
+      "Popolazione": 20484965,
+      "Numero grattacieli": 9,
+      "Nazione": "Egitto",
+      "Temperatura media annua": 22.1,
+      "Umidita media": 55
+    },
+    {
+      "Nome citta": "Dublino",
+      "Popolazione": 553165,
+      "Numero grattacieli": 3,
+      "Nazione": "Irlanda",
+      "Temperatura media annua": 10.9,
+      "Umidita media": 80
+    },
+    {
+      "Nome citta": "Vancouver",
+      "Popolazione": 631486,
+      "Numero grattacieli": 6,
+      "Nazione": "Canada",
+      "Temperatura media annua": 11.3,
+      "Umidita media": 75
+    },
+    {
+      "Nome citta": "Hong Kong",
+      "Popolazione": 7451000,
+      "Numero grattacieli": 63,
+      "Nazione": "Cina",
+      "Temperatura media annua": 23.1,
+      "Umidita media": 80
+    },
+    {
+      "Nome citta": "Lima",
+      "Popolazione": 9125000,
+      "Numero grattacieli": 10,
+      "Nazione": "Perù",
+      "Temperatura media annua": 18.5,
+      "Umidita media": 85
+    },
+    {
+      "Nome citta": "Amsterdam",
+      "Popolazione": 872680,
+      "Numero grattacieli": 7,
+      "Nazione": "Paesi Bassi",
+      "Temperatura media annua": 10.8,
+      "Umidita media": 75
+    },
+    {
+      "Nome citta": "Helsinki",
+      "Popolazione": 656229,
+      "Numero grattacieli": 3,
+      "Nazione": "Finlandia",
+      "Temperatura media annua": 5.9,
+      "Umidita media": 70
+    },
+    {
+      "Nome citta": "Bangkok",
+      "Popolazione": 10000000,
+      "Numero grattacieli": 18,
+      "Nazione": "Thailandia",
+      "Temperatura media annua": 28.6,
+      "Umidita media": 75
+    },
+    {
+      "Nome citta": "Stoccolma",
+      "Popolazione": 975551,
+      "Numero grattacieli": 6,
+      "Nazione": "Svezia",
+      "Temperatura media annua": 7.5,
+      "Umidita media": 65
+    },
+    {
+      "Nome citta": "Buenos Aires",
+      "Popolazione": 2890151,
+      "Numero grattacieli": 15,
+      "Nazione": "Argentina",
+      "Temperatura media annua": 17.5,
+      "Umidita media": 70
+    },
+    {
+      "Nome citta": "Oslo",
+      "Popolazione": 681067,
+      "Numero grattacieli": 5,
+      "Nazione": "Norvegia",
+      "Temperatura media annua": 7.8,
+      "Umidita media": 65
+    },
+    {
+      "Nome citta": "Riyad",
+      "Popolazione": 7050915,
+      "Numero grattacieli": 27,
+      "Nazione": "Arabia Saudita",
+      "Temperatura media annua": 28.3,
+      "Umidita media": 35
+    },
+    {
+      "Nome citta": "Città del Capo",
+      "Popolazione": 433688,
+      "Numero grattacieli": 3,
+      "Nazione": "Sudafrica",
+      "Temperatura media annua": 17.2,
+      "Umidita media": 65
+    },
+    {
+      "Nome citta": "Varsavia",
+      "Popolazione": 1790658,
+      "Numero grattacieli": 10,
+      "Nazione": "Polonia",
+      "Temperatura media annua": 8.6,
+      "Umidita media": 70
+    }
+  ]
+
